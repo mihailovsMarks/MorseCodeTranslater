@@ -1,0 +1,18 @@
+C:\Users\mihai\Documents\codes\morse_code\morse_code\obj\Debug\morse_code.csprojResolveAssemblyReference.cache
+C:\Users\mihai\Documents\codes\morse_code\morse_code\bin\Debug\morse_code.exe.config
+C:\Users\mihai\Documents\codes\morse_code\morse_code\bin\Debug\morse_code.exe
+C:\Users\mihai\Documents\codes\morse_code\morse_code\bin\Debug\morse_code.pdb
+C:\Users\mihai\Documents\codes\morse_code\morse_code\obj\Debug\morse_code.exe
+C:\Users\mihai\Documents\codes\morse_code\morse_code\obj\Debug\morse_code.pdb
+C:\Users\mihai\Desktop\codes\morse_code\morse_code\bin\Debug\morse_code.exe.config
+C:\Users\mihai\Desktop\codes\morse_code\morse_code\bin\Debug\morse_code.exe
+C:\Users\mihai\Desktop\codes\morse_code\morse_code\bin\Debug\morse_code.pdb
+C:\Users\mihai\Desktop\codes\morse_code\morse_code\obj\Debug\morse_code.csprojResolveAssemblyReference.cache
+C:\Users\mihai\Desktop\codes\morse_code\morse_code\obj\Debug\morse_code.exe
+C:\Users\mihai\Desktop\codes\morse_code\morse_code\obj\Debug\morse_code.pdb
+C:\Users\Marks\Desktop\laptop backup\codes\morse_code\morse_code\bin\Debug\morse_code.exe.config
+C:\Users\Marks\Desktop\laptop backup\codes\morse_code\morse_code\bin\Debug\morse_code.exe
+C:\Users\Marks\Desktop\laptop backup\codes\morse_code\morse_code\bin\Debug\morse_code.pdb
+C:\Users\Marks\Desktop\laptop backup\codes\morse_code\morse_code\obj\Debug\morse_code.csprojAssemblyReference.cache
+C:\Users\Marks\Desktop\laptop backup\codes\morse_code\morse_code\obj\Debug\morse_code.exe
+C:\Users\Marks\Desktop\laptop backup\codes\morse_code\morse_code\obj\Debug\morse_code.pdb
